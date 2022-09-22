@@ -1,3 +1,0 @@
-`solana-keygen new -o /Users/andreistoleru/.config/solana/id.json`
-`solana airdrop 20 $(solana-keygen pubkey /Users/andreistoleru/.config/solana/id.json)`
-`export ANCHOR_WALLET="/Users/andreistoleru/.config/solana/id.json"`
