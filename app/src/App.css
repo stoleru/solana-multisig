@@ -1,0 +1,33 @@
+.App {
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+input, textarea {
+  font-size: 14px;
+  padding: 6px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+form {
+  background-color: #eee;
+  padding: 10px;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+}
+
+.input-wrapper {
+  margin-bottom: 20px;
+}
+
+.input-wrapper:last-child {
+  margin: 0;
+}
+
+.multisig {
+  background-color: bisque;
+  padding: 10px;
+  box-sizing: border-box;
+}
